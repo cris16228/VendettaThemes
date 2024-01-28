@@ -184,9 +184,7 @@
             "StatusDND": "#f38ba8",
             "StatusOffline": "#9399b2",
             "StatusOnline": "#a6e3a1"
-        },
-        "ic_new_pins": "#f38ba8",
-        "StatusDND": "#f38ba8"
+        }
     },
     "spec": 2
 }
