@@ -7,7 +7,9 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_ACCENT": "#cba6f7",
+        "BACKGROUND_ACCENT": [
+            "#cba6f7"
+        ],
         "BACKGROUND_MENTIONED": [
             "#313244"
         ],
@@ -71,7 +73,9 @@
         "INTERACTIVE_ACTIVE": [
             "#eba0ac"
         ],
-        "INTERACTIVE_HOVER": "#cba6f7",
+        "INTERACTIVE_HOVER": [
+            "#cba6f7"
+        ],
         "INTERACTIVE_MUTED": [
             "#585b70"
         ],
@@ -96,14 +100,24 @@
         "CARD_PRIMARY_BG": [
             "#1e1e2e"
         ],
-        "SCROLLBAR_AUTO_THUMB": "#cba6f7",
-        "SCROLLBAR_AUTO_TRACK": "#cba6f7",
-        "SCROLLBAR_THIN_THUMB": "#cba6f7",
-        "SCROLLBAR_THIN_TRACK": "#cba6f7",
+        "SCROLLBAR_AUTO_THUMB": [
+            "#cba6f7"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#cba6f7"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#cba6f7"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#cba6f7"
+        ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#9399b2"
         ],
-        "TEXT_DANGER": "#cba6f7",
+        "TEXT_DANGER": [
+            "#cba6f7"
+        ],
         "TEXT_LINK": [
             "#89b4fa"
         ],
