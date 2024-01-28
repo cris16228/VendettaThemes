@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_ACCENT": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "BACKGROUND_MENTIONED": [
             "#313244"
@@ -74,7 +74,7 @@
             "#eba0ac"
         ],
         "INTERACTIVE_HOVER": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "INTERACTIVE_MUTED": [
             "#585b70"
@@ -101,22 +101,22 @@
             "#1e1e2e"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#9399b2"
         ],
         "TEXT_DANGER": [
-            "#eba0ac"
+            "#f38ba8"
         ],
         "TEXT_LINK": [
             "#89b4fa"
