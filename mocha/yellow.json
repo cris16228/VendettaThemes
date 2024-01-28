@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_ACCENT": [
-            "#fab387"
+            "#f9e2af"
         ],
         "BACKGROUND_MENTIONED": [
             "#313244"
@@ -56,7 +56,7 @@
             "#11111b"
         ],
         "CHANNEL_ICON": [
-            "#fab387"
+            "#f9e2af"
         ],
         "CHANNELS_DEFAULT": [
             "#9399b2"
@@ -101,13 +101,13 @@
             "#1e1e2e"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#fab387"
+            "#f9e2af"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#fab387"
+            "#f9e2af"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#fab387"
+            "#f9e2af"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#f38ba8"
@@ -135,14 +135,14 @@
         ]
     },
     "rawColors": {
-        "BRAND_260": "#fab387",
+        "BRAND_260": "#f9e2af",
         "BRAND_360": "#a6e3a1",
         "BRAND_500": "#cba6f7",
         "GREEN_360": "#a6e3a1",
         "PRIMARY_100": "#cdd6f4",
         "PRIMARY_300": "#1e1e2e",
-        "PRIMARY_360": "#fab387",
-        "PRIMARY_400": "#fab387",
+        "PRIMARY_360": "#f9e2af",
+        "PRIMARY_400": "#f9e2af",
         "PRIMARY_460": "#181825",
         "PRIMARY_500": "#cdd6f4",
         "BRAND_560": "#6c7086",
@@ -177,11 +177,11 @@
     "plus": {
         "version": "0",
         "icons": {
-            "ic_new_pins": "#fab387",
+            "ic_new_pins": "#f9e2af",
             "StatusStreaming": "#cba6f7",
             "StatusMobileOnline": "#a6e3a1",
             "StatusIdle": "#f9e2af",
-            "StatusDND": "#fab387",
+            "StatusDND": "#f9e2af",
             "StatusOffline": "#9399b2",
             "StatusOnline": "#a6e3a1"
         }
